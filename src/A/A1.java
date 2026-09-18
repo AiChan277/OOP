@@ -9,7 +9,7 @@ public class A1 {
 
     // Method untuk membuktikan akses di dalam kelas sendiri (internal)
     public void testAksesInternal() {
-        System.out.println("Akses dari A1 (Kelas Sendiri — AlatPancing)");
+        System.out.println("Akses dari A1 (Kelas Sendiri - AlatPancing)");
         System.out.println("Nama Alat  (public)    : " + namaAlat);    // BISA
         System.out.println("Harga      (protected) : " + harga);       // BISA
         System.out.println("Stok       (default)   : " + stok);        // BISA
